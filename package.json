@@ -1,0 +1,19 @@
+{
+  "name": "Princess-Bot",
+  "version": "2.0.0",
+  "description": "Princess official Bot!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "discord.js": "^11.2.1",
+    "discord.js-musicbot-addon": "^12.0.6",
+    "moment": "^2.22.1",
+    "ms": "^2.1.1",
+    "node-opus": "^0.3.0"
+  }
+}
